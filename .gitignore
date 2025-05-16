@@ -1,0 +1,8 @@
+env/
+__pycache__/
+services/__pycache__/
+ui/
+storage/
+.env
+index.ipynb
+.venv/
