@@ -6,3 +6,4 @@ storage/
 .env
 index.ipynb
 .venv/
+requirements.txt
